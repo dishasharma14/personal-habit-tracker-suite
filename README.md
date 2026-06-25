@@ -21,6 +21,7 @@ Key Concept: Enterprise request routing, server-side data dynamic rendering, and
 Quick Run: Right-click project folder ➔ Run As ➔ Run on Server (Tomcat v9.0+) ➔ Navigate to /Servlet_JSP_Web_Dashboard/habits.
 
 📋 Global Setup Requirements
+
 Environment: Java JDK 17+ & MySQL Server
 
 Server: Apache Tomcat v9.0+
