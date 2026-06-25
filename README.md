@@ -1,4 +1,5 @@
 Personal Habit Tracker Suite
+
 A 3-part Java backend development suite progressing from low-level database drivers to enterprise web applications.
 
 💻 Project 1: JDBC Console Habit Checklist
